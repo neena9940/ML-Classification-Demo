@@ -30,5 +30,5 @@ This repository demonstrates core machine learning workflows using classic datas
 ## ▶️ How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/ml-classification-demo.git
+   git clone https://github.com/neena9940/ml-classification-demo.git
    cd ml-classification-demo
